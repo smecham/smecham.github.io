@@ -61,8 +61,8 @@ img.center {
 	margin-right: auto;
 }
 
-.grid-container {
-		display: grid;
+.item {
+		display: inline-grid;
 		grid-template-columns: repeat(3, auto);
 		grid-template-rows: repeat(3, auto);
 }
