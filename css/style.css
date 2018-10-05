@@ -5,7 +5,7 @@ body{
 }
 
 body.resume {
-    background: url(../images/water.jpg) no-repeat center center fixed;
+    background: url(../images/water.jpg) white no-repeat center center fixed;
 		background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
