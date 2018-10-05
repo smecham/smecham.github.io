@@ -24,6 +24,10 @@ h1{
 	text-align: center;
 }
 
+h1.resume{
+	color: black;
+}
+
 a:link {
 	color: white;
 	text-decoration: underline;
