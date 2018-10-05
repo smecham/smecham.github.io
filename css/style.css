@@ -5,12 +5,13 @@ body{
 }
 
 body.resume {
-    background: url(../images/water.jpg) black no-repeat center center fixed;
+    background: url(../images/water.jpg) no-repeat center center fixed;
 		background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
 		-webkit-background-size: cover;
 }
+
 li{
 	text-decoration: none;
 	display:inline;
@@ -22,6 +23,10 @@ li{
 h1{
 	font-weight: bold;
 	text-align: center;
+}
+
+h1.resume{
+	color: black;
 }
 
 a:link {
