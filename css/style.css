@@ -63,8 +63,8 @@ img.center {
 
 .grid-container {
 	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	grid-template-rows: repeat(3, 1fr);
+	grid-template-columns: auto 2px auto 2px auto 2px;
+	grid-template-rows: auto 2px auto 2px auto 2px;
 	grid-gap: 1px;
 
 }
